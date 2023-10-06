@@ -1,1 +1,4 @@
 print("iniciando!")
+
+print('x')
+
