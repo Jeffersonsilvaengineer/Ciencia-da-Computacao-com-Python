@@ -17,6 +17,6 @@ O operador "%" devolve apenas o resto da divisão inteira jogando fora o resulta
 tudo que é maior ou igual ao divisor.'''
 
 x = int(input('Digite um número inteiro: '))
-dezena = x // 10
-dezena = dezena % 10
-print(dezena)
+dezenas = x // 10
+dezenas = dezenas % 10
+print(dezenas)

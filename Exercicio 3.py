@@ -12,6 +12,6 @@ como não é preciso realizar cálculos, o valor não precisa ser convertido par
 nome = input('Dijite seu nome: ')
 dia = input('Qual o dia de vencimento: ')
 mes = input('Qual o mês de vencimento: ')
-valor = float(input('Qual o valor da fatura: '))
+valor = input('Qual o valor da fatura: ')
 print(f'Olá, {nome}')
 print(f'A sua fatura com vencimento em {dia} de {mes} no valor de R${valor} está fechada.')
